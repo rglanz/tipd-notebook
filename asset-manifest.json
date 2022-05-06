@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/tipd-notebook/static/css/main.9fef2191.css",
+    "main.js": "/tipd-notebook/static/js/main.b2b351a8.js",
+    "static/media/altucher_outline.png": "/tipd-notebook/static/media/altucher_outline.e22d440aab168d483b9d.png",
+    "index.html": "/tipd-notebook/index.html",
+    "main.9fef2191.css.map": "/tipd-notebook/static/css/main.9fef2191.css.map",
+    "main.b2b351a8.js.map": "/tipd-notebook/static/js/main.b2b351a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fef2191.css",
+    "static/js/main.b2b351a8.js"
+  ]
+}
