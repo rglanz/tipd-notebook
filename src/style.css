@@ -91,6 +91,7 @@ body {
 
     border: none;
     border-radius: 5px;
+    font-family: var(--ff-primary);
     font-size: var(--fs-h2);
     font-weight: var(--fw-bold);
     color: var(--fc-gray);
