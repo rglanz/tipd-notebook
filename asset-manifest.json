@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/tipd-notebook/static/css/main.86e367ec.css",
+    "main.css": "/tipd-notebook/static/css/main.f57f5cf9.css",
     "main.js": "/tipd-notebook/static/js/main.b2b351a8.js",
     "static/media/altucher_outline.png": "/tipd-notebook/static/media/altucher_outline.e22d440aab168d483b9d.png",
     "index.html": "/tipd-notebook/index.html",
-    "main.86e367ec.css.map": "/tipd-notebook/static/css/main.86e367ec.css.map",
+    "main.f57f5cf9.css.map": "/tipd-notebook/static/css/main.f57f5cf9.css.map",
     "main.b2b351a8.js.map": "/tipd-notebook/static/js/main.b2b351a8.js.map"
   },
   "entrypoints": [
-    "static/css/main.86e367ec.css",
+    "static/css/main.f57f5cf9.css",
     "static/js/main.b2b351a8.js"
   ]
 }
