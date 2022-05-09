@@ -2,6 +2,8 @@
 
 A stylish notebook for keeping ideas, inspired by James Altucher's book [Choose Yourself](https://www.amazon.com/Choose-Yourself-James-Altucher/dp/1490313370)
 
+### [Try it out](https://rglanz.github.io/tipd-notebook/)
+
 <img src="/assets/thumbnail.png" width="400px" />
 
 (Currently saves only to localStorage!)
