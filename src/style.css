@@ -95,6 +95,7 @@ body {
     font-size: var(--fs-h2);
     font-weight: var(--fw-bold);
     color: var(--fc-gray);
+    box-shadow: none;
 }
 
 .idea__input:active, .idea__input:focus {
